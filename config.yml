@@ -1,0 +1,2 @@
+max_workers: 1000
+AMQP_URI: amqp://guest:@127.0.0.1:5672/
